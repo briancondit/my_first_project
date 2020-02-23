@@ -1,8 +1,4 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
+
 # my_first_project
 Cloud Based Data Science Course first project!
 
